@@ -1,0 +1,34 @@
+# Altium local backup & history folders
+History/
+Project Logs for */
+Project Outputs/
+Project Outputs for */
+*_Output/
+pcbway/
+
+# Generated manufacturing, CAD, and output files
+*.zip
+*.rar
+*.cam
+*.ger
+*.gbr
+*.pho
+*.apr
+*.drl
+*.rep
+*.txt
+*.csv
+*.pdf
+
+# Altium workspace state, previews & reports
+*.WAS
+*.html
+*.htm
+*.nsb
+*.Log
+*.NET
+*.PrjPcbStructure
+__Previews/
+
+# Keep markdown documentation
+!README.md
